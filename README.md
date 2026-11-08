@@ -1,1 +1,1 @@
-# agent-playground
+# Agent Playground
